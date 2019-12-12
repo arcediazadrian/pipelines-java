@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Adrian0850/learning/_apis/build/status/arcediazadrian.pipelines-java?branchName=master)](https://dev.azure.com/Adrian0850/learning/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
